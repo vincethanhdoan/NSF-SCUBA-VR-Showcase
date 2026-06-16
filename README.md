@@ -2,6 +2,8 @@
 
 A WebGL virtual reality SCUBA diving simulation built for K-12 education and professional underwater survey training. Developed in collaboration with the National Science Foundation and a Cal Poly marine biologist.
 
+**[Live Demo →](https://divebeneaththesurface.org/expierience)**
+
 > **Note:** This project is maintained under the official research organization's repository. This repo documents my contributions as Project Manager and Full Stack Developer (Sep 2024 – Apr 2025).
 
 ---
